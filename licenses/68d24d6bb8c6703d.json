@@ -1,0 +1,16 @@
+{
+  "format": "ZANZ_GITHUB_LICENSE_V1",
+  "payload": {
+    "version": 1,
+    "licenseId": "68d24d6bb8c6703d",
+    "status": "issued",
+    "resellerTelegramId": "1271200842",
+    "botTokenHash": "e05613888199b21a86ef64802523b7258641c6b575737fbcbc4981091bd439dc",
+    "registeredBotId": "9265306602",
+    "registeredBotUsername": "tessanj_bot",
+    "createdAt": "2026-11-21T18:15:49.241Z",
+    "approvedAt": "",
+    "revokedAt": ""
+  },
+  "signature": "bW0Mi_5Gc-p7myh_vzkD5xzoR7kzDwG-cbOvxHj1QskntHjTVTz5bvYV-7_rE47UTF8phuPBTUPCXFwmS0YbDg"
+}
