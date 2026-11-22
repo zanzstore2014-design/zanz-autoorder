@@ -1,0 +1,17 @@
+{
+  "format": "ZANZAUTOORDER_RESELLER_GITHUB_LICENSE_V2",
+  "payload": {
+    "version": 1,
+    "licenseId": "c188b82a095c0d6f",
+    "status": "issued",
+    "resellerTelegramId": "1271200842",
+    "resellerTelegramUsername": "CoinDesk_Support2220",
+    "botTokenHash": "e05613888199b21a86ef64802523b7258641c6b575737fbcbc4981091bd439dc",
+    "registeredBotId": "9265306602",
+    "registeredBotUsername": "tessanj_bot",
+    "createdAt": "2026-11-22T23:32:08.570Z",
+    "approvedAt": "",
+    "revokedAt": ""
+  },
+  "signature": "z-HdtjwmnX4rqHMI59rRpXL9W8RwF7T8RybWxF160KdQlOltkfiJtzywqLCjIQgChva3k0V7tKI9SXvzznOBCQ"
+}
