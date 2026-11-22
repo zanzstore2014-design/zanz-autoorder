@@ -1,0 +1,16 @@
+{
+  "format": "ZANZAUTOORDER_RESELLER_GITHUB_LICENSE_V2",
+  "payload": {
+    "version": 1,
+    "licenseId": "08c65c042aea171a",
+    "status": "issued",
+    "resellerTelegramId": "1271200842",
+    "botTokenHash": "e05613888199b21a86ef64802523b7258641c6b575737fbcbc4981091bd439dc",
+    "registeredBotId": "9265306602",
+    "registeredBotUsername": "tessanj_bot",
+    "createdAt": "2026-11-22T03:33:59.805Z",
+    "approvedAt": "",
+    "revokedAt": ""
+  },
+  "signature": "y9F_v70YOUVsR2lfQkGu8b8dzSvdi1SiEWdL3uPMl-9-AbEZs4gMMvmwchLTGB92ABFj9UMbcIDwkurkfHxTCQ"
+}
