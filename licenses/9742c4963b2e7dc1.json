@@ -1,0 +1,16 @@
+{
+  "format": "ZANZAUTOORDER_RESELLER_GITHUB_LICENSE_V2",
+  "payload": {
+    "version": 1,
+    "licenseId": "9742c4963b2e7dc1",
+    "status": "issued",
+    "resellerTelegramId": "1271200842",
+    "botTokenHash": "3f76de53d6203f4271741a51c3c36fea3694123942a3eb35309846c6726b0ec2",
+    "registeredBotId": "8977513234",
+    "registeredBotUsername": "panelfreezanzbot",
+    "createdAt": "2026-11-22T07:35:58.147Z",
+    "approvedAt": "",
+    "revokedAt": ""
+  },
+  "signature": "E55DpnY9_j6-Ob0jh8erw64M9SkVshVjJfXedI_Ma5SKQt9JsS3kAI_96qutCrjRl6bpGuemT_hGHquL1QjACw"
+}
